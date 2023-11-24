@@ -27,4 +27,4 @@ Ensure that you enter a positive number when calling the function. The function 
 
 ## Contributors
 - Iago Pinheiro de Oliveira Alves<br>
-Feel free to contribute by opening issues or submitting pull requests!
+Feel free to contribute by opening issues or submitting pull request!
