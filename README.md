@@ -1,29 +1,34 @@
 # Project sum of multiples of 3 and 5
-This simple JavaScript project calculates the sum of multiples of 3 and 5 up to a given positive integer. The main function, sumMultiple3and5, takes a positive number as an argument and returns the sum of all multiples of 3 or 5 below that number.
+This is a simple project for validating and adding numbers divisible by 3 or 5, implemented in HTML, CSS and JavaScript. Follow the instructions below to run and test the project.
 
 ## Instructions
 Follow these steps to run and test the project:
 
-## Prerequisites
-Make sure you have the following installed on your machine:
-
-- Node.js: <a href="https://nodejs.org/en/download/current">Download and install Node.js</a>
-
 ## Running the Project
 
 1. Clone the Repository: gh repo clone iagoPinheiro1401/Project-Sum-of-Multiples-of-3-and-5
-2. Run the Project: terminal: node index.js
+2. Open the HTML File in the Browser:
+    - Locate the "index.html" file in your project directory.
+    - Double-click the file or open it with the browser of your choice.
+3. Interact with the Application:
+    - Enter a positive integer in the input field.
+    - Click the "Check and Add" button.
+    - The result will be displayed below the button.
 
-## Testing the Function
-To test the function with a different number, modify the value passed to the sumMultiple3and5 function in the index.js file. 
-![exit](./assets/exit.png)
+## Testing the Application
+- Scenario 1: Valid Number:
+  - Enter a positive integer and click "Check and Add".
+  -  Check that the displayed result corresponds to the sum of numbers smaller than the number entered and divisible by 3 or 5.
 
-## Example
-For instance, to find the sum of multiples of 3 and 5 below 20:
-![example](./assets//example.png)
+- Scenario 2: Invalid Number:
+   - Try entering invalid values, such as negative letters or numbers.
+   - Verify that the appropriate error message is displayed.
+
+- Scenario 3: Large Number:
+   - Enter a large number and check whether the application handles it efficiently.
 
 ## Note
-Ensure that you enter a positive number when calling the function. The function includes a check for this and will display an error message if an invalid input is provided.
+Make sure you have an internet connection when opening the HTML file, as some browsers may require this to load external fonts or styles.
 
 ## Contributors
 - Iago Pinheiro de Oliveira Alves<br>
