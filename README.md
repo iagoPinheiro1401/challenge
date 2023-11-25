@@ -6,6 +6,10 @@ Follow these steps to run and test the project:
 
 ## Running the Project
 
+If you want, here is the application link: <a href="https://challenge-gamma-puce.vercel.app/">adder of divisors of 3 or 5</a>
+
+Or if you prefer, follow the steps below:
+
 1. Clone the Repository: gh repo clone iagoPinheiro1401/Project-Sum-of-Multiples-of-3-and-5
 2. Open the HTML File in the Browser:
     - Locate the "index.html" file in your project directory.
